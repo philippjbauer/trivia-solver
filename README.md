@@ -5,6 +5,8 @@ I thought this to be an interesting problem because it involves the use of OCR a
 
 Shortly after I was done with this, I discovered the amount of people motivated to solve this was/is quite big. The approach people came up with is very similar to / the same as mine. See: https://www.youtube.com/watch?v=6GjaUu9tOaA
 
+![YouTube HQ Trivia Demo](https://github.com/philippjbauer/trivia-solver/raw/master/trivia-solver.gif "YouTube HQ Trivia Demo")
+
 ## Compability
 This code works untranspiled with NodeJS v10 on MacOS High Sierra (< 10.13 is untested). It will not work on other platforms as it uses the native screencapture tool of MacOS. Provisions for transpiling the code exist but went unused, you can try to use it for NodeJS < v10.
 
